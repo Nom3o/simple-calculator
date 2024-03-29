@@ -1,5 +1,5 @@
 # simple-calculator
-**using** `Html, css & Javaaript`
+**using** `Html, css & Javascript`
 
 # Demo
 
